@@ -1,0 +1,16 @@
+PODS:
+  - BazyAdxSdk (0.1.0)
+
+DEPENDENCIES:
+  - BazyAdxSdk (from `../`)
+
+EXTERNAL SOURCES:
+  BazyAdxSdk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BazyAdxSdk: 41bf25abb2cf0e58be8718dee5174b5b5c168493
+
+PODFILE CHECKSUM: 8f421dc748f2b33aa365659e0eead1d2c52a4e01
+
+COCOAPODS: 1.16.2

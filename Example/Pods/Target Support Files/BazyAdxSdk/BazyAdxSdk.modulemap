@@ -1,0 +1,6 @@
+framework module BazyAdxSdk {
+  umbrella header "BazyAdxSdk-umbrella.h"
+
+  export *
+  module * { export * }
+}
